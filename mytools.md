@@ -42,6 +42,7 @@
 - [Raspberry Pi OS](https://www.raspberrypi.com/software)
 - [Rufus](https://rufus.ie/it)
 - [SDCardFormatter](https://www.sdcard.org/downloads/formatter)
+- [TerraCopy](https://www.codesector.com/teracopy)
 - [TOR Browser](https://www.torproject.org/download)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [WakeOnLAN](https://wol.aquilatech.com)
