@@ -1,0 +1,51 @@
+# TOOLS
+
+- [Awesome](https://github.com/Awesome-Windows/Awesome)
+- [A-Z of Windows Terminal Commands](https://ss64.com/nt)
+- [Box](https://app.box.com)
+- [ChatGPT](https://chat.openai.com/chat)
+- [Speedtest](https://www.speedtest.net)
+- [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+# SERVIZI
+
+- [Bitwarden](https://bitwarden.com/download)
+- [Dropbox](https://www.dropbox.com)
+- [Mega](https://mega.io)
+- [OneDrive](https://www.microsoft.com/it-it/microsoft-365/onedrive/download)
+- [Surfshak](https://surfshark.com/it)
+- [Tophost](https://www.tophost.it)
+
+# SOFTWARE
+
+- [7Zip](https://www.7-zip.org)
+- [Adobe Reader](https://get.adobe.com/it/reader)
+- [Advance Port Scanner](https://www.advanced-port-scanner.com)
+- [Bvckup 2](https://bvckup2.com)
+- [Caffeine - For Mac](https://www.intelliscapesolutions.com/apps/caffeine)
+- [Caffeine - For Windows](https://zhornsoftware.co.uk/caffeine/#download)
+- [CDRTFE](https://cdrtfe.sourceforge.io/cdrtfe/download_en.html) - Creare .iso da CD
+- [CmapsTools](https://cmaptools.it.softonic.com)
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+- [EXIF Cleaner](https://exifcleaner.com)
+- [FAT32 Format](https://fat32-format.it.softonic.com)
+- [FileZilla](https://filezilla-project.org/download.php?type=client)
+- [FullSync](https://fullsync.sourceforge.io)
+- [Google Chrome](https://www.google.it/intl/it/chrome)
+- [Keepass](https://keepass.info/download.html)
+- [mRemoteNG](https://mremoteng.org)
+- [Notepad++](https://notepad-plus-plus.org)
+- [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
+- [Putty](https://putty.org/)
+- [PyCharm](https://www.jetbrains.com/pycharm)
+- [Python](https://www.python.org)
+- [Raspberry Pi OS](https://www.raspberrypi.com/software)
+- [Rufus](https://rufus.ie/it)
+- [SDCardFormatter](https://www.sdcard.org/downloads/formatter)
+- [TOR Browser](https://www.torproject.org/download)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [WakeOnLAN](https://wol.aquilatech.com)
+- [Windows 10 Media Creator](https://www.microsoft.com/it-it/software-download/windows10)
+- [Windows 11 Media Creator](https://www.microsoft.com/it-it/software-download/windows11)
+- [WinSPC](https://winscp.net/eng/docs/lang:it)
+- [WinRAR](https://www.win-rar.com)
