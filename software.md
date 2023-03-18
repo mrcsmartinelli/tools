@@ -1,7 +1,6 @@
-# Elenco in ordine alfabetico con due sottocategorie
+# SOFTWARE.MD
 
-## Prima categoria
+## SOFTWARE
 
-- FTP
-  1. [FileZilla](https://filezilla-project.org/download.php?type=client)
+  1. [SevenZip](https://www.7-zip.org)
   2. [FileZilla](https://filezilla-project.org/download.php?type=client)
