@@ -42,6 +42,7 @@
 - [Keepass](https://keepass.info/download.html)
 - [mRemoteNG](https://mremoteng.org)
 - [Notepad++](https://notepad-plus-plus.org)
+- [Obisidian](https://obsidian.md)
 - [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
 - [Putty](https://putty.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm)
