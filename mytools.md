@@ -42,6 +42,7 @@
 - [Raspberry Pi OS](https://www.raspberrypi.com/software)
 - [Rufus](https://rufus.ie/it)
 - [SDCardFormatter](https://www.sdcard.org/downloads/formatter)
+- [ShowKeyPlus](https://github.com/Superfly-Inc/ShowKeyPlus/releases)
 - [TerraCopy](https://www.codesector.com/teracopy)
 - [TOR Browser](https://www.torproject.org/download)
 - [Visual Studio Code](https://code.visualstudio.com)
