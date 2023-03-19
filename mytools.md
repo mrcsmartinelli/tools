@@ -1,3 +1,8 @@
+# TIPS
+
+- [Windows Setup Edition (EI.cfg e PID.txt](https://learn.microsoft.com/it-it/windows-hardware/manufacture/desktop/windows-setup-edition-configuration-and-product-id-files--eicfg-and-pidtxt?view=windows-11)
+- [Unable to Detect the Drive When Installing a New Windows](https://www.intel.com/content/www/us/en/support/articles/000058724/memory-and-storage/intel-optane-memory.html)
+- 
 # TOOLS
 
 - [Awesome](https://github.com/Awesome-Windows/Awesome)
