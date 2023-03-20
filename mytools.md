@@ -62,6 +62,7 @@
 - [TOR Browser](https://www.torproject.org/download)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [WakeOnLAN](https://wol.aquilatech.com)
+- [Windows USB/DVD Download Tool](https://www.microsoft.com/it-it/download/details.aspx?id=56485)
 - [Windows 10 Media Creator](https://www.microsoft.com/it-it/software-download/windows10)
 - [Windows 11 Media Creator](https://www.microsoft.com/it-it/software-download/windows11)
 - [WinSPC](https://winscp.net/eng/docs/lang:it)
