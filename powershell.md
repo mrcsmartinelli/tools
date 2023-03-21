@@ -17,3 +17,7 @@ Get-PhysicalDisk | Format-Table -AutoSize
 # Trovare product key Windows 10
 
 (Get-WmiObject -query ‘select * from SoftwareLicensingService’).OA3xOriginalProductKey
+
+# Attivare Windows 10 KMS
+
+irm https://massgrave.dev/get | iex
