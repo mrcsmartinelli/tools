@@ -1,9 +1,9 @@
 # Creare / Eliminare utente
 
-1. **sudo adduser nome_nuovo_utente
-2. **sudo adduser nome_nuovo_utente sudo
-3. **sudo deluser old_utente
-4. **sudo rm -rf /home/old_utente
+1. **sudo adduser nome_nuovo_utente**
+2. **sudo adduser nome_nuovo_utente sudo**
+3. **sudo deluser old_utente**
+4. **sudo rm -rf /home/old_utente**
 
 # Aggiornare
 
