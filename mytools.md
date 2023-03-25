@@ -15,15 +15,19 @@
 
 # SERVIZI
 
-- [Bitwarden](https://bitwarden.com/download)
-- [Blackblaze](https://www.backblaze.com/cloud-backup.html)
-- [Dropbox](https://www.dropbox.com)
-- [Mega](https://mega.io)
-- [OneDrive](https://www.microsoft.com/it-it/microsoft-365/onedrive/download)
-- [Keyboard Test Online](https://keyboard-test.space)
-- [Squarespace](https://it.squarespace.com)
-- [Surfshak](https://surfshark.com/it)
-- [Tophost](https://www.tophost.it)
+# SERVIZI
+
+- [Bitwarden](https://bitwarden.com/download) - un gestore di password open source che crittografa e archivia le tue password e le informazioni di accesso.
+- [Blackblaze](https://www.backblaze.com/cloud-backup.html) - un servizio di backup online che permette di proteggere i dati importanti memorizzati sul tuo computer.
+- [Dropbox](https://www.dropbox.com) - un servizio di archiviazione e sincronizzazione cloud che ti consente di accedere ai tuoi file ovunque tu sia e da qualsiasi dispositivo.
+- [FLiP PT](https://www.flip.pt/FLiP-On-line/Corrector-ortografico-e-sintactico) - uno strumento di correzione ortografica e grammaticale in lingua portoghese.
+- [Mega](https://mega.io) - un servizio di archiviazione cloud che offre crittografia end-to-end per proteggere i tuoi dati.
+- [OneDrive](https://www.microsoft.com/it-it/microsoft-365/onedrive/download) - un servizio di archiviazione cloud di Microsoft che ti permette di accedere ai tuoi file ovunque tu sia e da qualsiasi dispositivo.
+- [PDF Candy](https://pdfcandy.com/it) - una suite di strumenti online per la gestione dei PDF, come convertitore, unione e divisione dei file PDF.
+- [Keyboard Test Online](https://keyboard-test.space) - uno strumento online per testare la funzionalità della tua tastiera.
+- [Squarespace](https://it.squarespace.com) - una piattaforma di creazione di siti web che ti consente di creare e personalizzare il tuo sito web.
+- [Surfshark](https://surfshark.com/it) - un servizio VPN che ti consente di navigare in sicurezza e anonimato su Internet.
+- [Tophost](https://www.tophost.it) - un servizio di hosting web italiano che ti consente di ospitare il tuo sito web e il tuo dominio. 
 
 # SOFTWARE
 
