@@ -1,6 +1,6 @@
 # TIPS
 
-- [Windows Setup Edition (EI.cfg e PID.txt](https://learn.microsoft.com/it-it/windows-hardware/manufacture/desktop/windows-setup-edition-configuration-and-product-id-files--eicfg-and-pidtxt?view=windows-11) - Descrizione: Informazioni su come configurare il file EI.cfg e PID.txt per personalizzare l'installazione di Windows.
+- [Windows Setup Edition (EI.cfg e PID.txt)](https://learn.microsoft.com/it-it/windows-hardware/manufacture/desktop/windows-setup-edition-configuration-and-product-id-files--eicfg-and-pidtxt?view=windows-11) - Descrizione: Informazioni su come configurare il file EI.cfg e PID.txt per personalizzare l'installazione di Windows.
 - [Unable to Detect the Drive When Installing a New Windows](https://www.intel.com/content/www/us/en/support/articles/000058724/memory-and-storage/intel-optane-memory.html) - Descrizione: Guida alla risoluzione di problemi relativi al rilevamento di unità di storage durante l'installazione di Windows.
 
 # TOOLS
