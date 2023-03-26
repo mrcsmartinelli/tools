@@ -70,3 +70,8 @@
 - [WinSPC](https://winscp.net/eng/docs/lang:it) - Un client FTP gratuito e open source con molte funzionalità avanzate
 - [WinRAR](https://www.win-rar.com) - Un programma di compressione file potente e versatile
 
+# APPLE
+
+- [iWallpaper](https://apps.apple.com/it/app/iwallpaper-live-wallpaper/id1552826194?mt=12) - Live wallpaper for MacOS
+- [Al Dente Charge Limiter](https://apphousekitchen.com/pricing) - Gestione avanzata batteria MacBook
+
