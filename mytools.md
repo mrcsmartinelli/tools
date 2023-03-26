@@ -15,6 +15,7 @@
 
 # SERVIZI
 
+- [Al Dente Charge Limiter](https://apphousekitchen.com/pricing) - Gestione avanzata batteria MacBook
 - [Bitwarden](https://bitwarden.com/download) - un gestore di password open source che crittografa e archivia le tue password e le informazioni di accesso.
 - [Blackblaze](https://www.backblaze.com/cloud-backup.html) - un servizio di backup online che permette di proteggere i dati importanti memorizzati sul tuo computer.
 - [Dropbox](https://www.dropbox.com) - un servizio di archiviazione e sincronizzazione cloud che ti consente di accedere ai tuoi file ovunque tu sia e da qualsiasi dispositivo.
@@ -46,6 +47,7 @@
 - [FullSync](https://fullsync.sourceforge.io) - Sincronizzazione di file e cartelle
 - [Gparted](https://gparted.org) - Partizionamento del disco
 - [Google Chrome](https://www.google.it/intl/it/chrome) - Browser web
+- [iWallpaper](https://apps.apple.com/it/app/iwallpaper-live-wallpaper/id1552826194?mt=12) - Live wallpaper for MacOS
 - [Keepass](https://keepass.info/download.html) - Gestore di password
 - [mRemoteNG](https://mremoteng.org) - Gestione di connessioni remote
 - [Notepad++](https://notepad-plus-plus.org) - Editor di testo avanzato
@@ -69,9 +71,3 @@
 - [Windows 11 Media Creator](https://www.microsoft.com/it-it/software-download/windows11) - Per creare un'immagine ISO di Windows 11 avviabile su un'unità USB o un DVD
 - [WinSPC](https://winscp.net/eng/docs/lang:it) - Un client FTP gratuito e open source con molte funzionalità avanzate
 - [WinRAR](https://www.win-rar.com) - Un programma di compressione file potente e versatile
-
-# APPLE
-
-- [iWallpaper](https://apps.apple.com/it/app/iwallpaper-live-wallpaper/id1552826194?mt=12) - Live wallpaper for MacOS
-- [Al Dente Charge Limiter](https://apphousekitchen.com/pricing) - Gestione avanzata batteria MacBook
-
